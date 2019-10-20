@@ -7,9 +7,7 @@ loaders made with pure CSS and zero bulk. Will be converted to a react component
 
 ![CSS Only Loaders](https://raw.githubusercontent.com/theanam/css-only-loaders/master/homepage-assets/preview.gif)
 
-#### React component
 
-[![NPM](https://nodei.co/npm/cssonly-loaders-react.png)](https://nodei.co/npm/cssonly-loaders-react/)
 
 **Readme still incomplete**
 
@@ -22,5 +20,5 @@ loaders made with pure CSS and zero bulk. Will be converted to a react component
 * Please make sure the folder name in the `loaders` folder, the css file name and the class name is the same. This is **Important** for the automatic defination loading to work.
 
 
-The Loader icon on the logo is taken from [Icofont](icofont.com)
+The Loader icon on the logo is taken from [Icofont](http://icofont.com)
  
